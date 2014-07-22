@@ -1,0 +1,6 @@
+*~
+obj
+bin
+*.layout
+*.depend
+dec-key.txt
